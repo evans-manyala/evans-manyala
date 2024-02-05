@@ -36,7 +36,7 @@
 </table>
 
 
-<p align="center"> <a href="https://twitter.com/evans_manyala" target="_blank"><img src="https://img.shields.io/twitter/follow/aysuarex?logo=twitter&style=for-the-badge" alt="aysuarex" /></a> </p>
+<p align="center"> <a href="https://twitter.com/evans_manyala" target="_blank"><img src="https://img.shields.io/twitter/follow/evans_manyala?logo=twitter&style=for-the-badge" alt="evans_manyala" /></a> </p>
 
 ## My Github Stats:
 
