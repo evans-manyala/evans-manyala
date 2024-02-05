@@ -1,5 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![Evans Manyala](https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png)
+<--![Evans Manyala](https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png)-->
 <h1 align="center">Hi <img src="https://github.com/evans-manyala/evans-manyala/blob/main/wave.gif" width="30px">, I'm Evans Manyala</h1>
 <h3 align="center">A passionate DevOps Engineer and Software Engineer from Kenya</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
@@ -11,7 +11,7 @@
       <p>- 🌱 I’m currently studying <b>Software Engineering </b> at the <a href=https://www.alxafrica.com/ target="_blank">ALX Africa</a></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:imagineitke@gmail.com alt=email target="_blank">imagineitke@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b>I'm a on course to graduate from the ALX Software Engineering Programme (cohort 19)</b></p>
+      <p>- ⚡ Fun fact: <b>I'm am on course to graduate from the ALX Software Engineering Programme (cohort 19)</b></p>
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
