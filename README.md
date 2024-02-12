@@ -1,7 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-<h1 align="center">Hi <img src="https://github.com/evans-manyala/evans-manyala/blob/main/wave.gif" width="30px">, I'm Evans Manyala</h1>
-<h3 align="center">A passionate DevOps and Software Engineer from Kenya</h3>
-<!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=04F712&random=false&width=435&lines=Evans+Manyala;DevOps+%7C+SRE+%7C+Software+Engineer" alt="Typing SVG" /></a>
 
 <table>
   <tr>
