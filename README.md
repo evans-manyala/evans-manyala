@@ -43,7 +43,7 @@
     <td>
        <a href="https://github.com/evans-manyala"><img alt="Evans Manyala's Github Stats"
     <td>
-       <a href="http://www.github.com/evans-manyala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aysuarex&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=evans-manyala&theme=whatsapp-dark" alt="GitHub Streak" /></a>
     </td>
     <td>
       <a href="https://github.com/evans-manyala"><img alt="Evans Manyala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-manyala&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
