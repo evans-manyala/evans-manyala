@@ -8,7 +8,7 @@
       <p>- 🌱 I’m currently studying <b>Software Engineering </b> at the <a href=https://www.alxafrica.com/ target="_blank">ALX Africa</a></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:imagineitke@gmail.com alt=email target="_blank">imagineitke@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b> I am on course to graduate from the ALX Software Engineering Programme (cohort 19)</b></p>
+      <p>- ⚡ Fun fact: <b> I am a graduate of ALX Software Engineering Programme (cohort 19)</b></p>
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
